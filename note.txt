@@ -2,7 +2,7 @@ This is git note.
 Add some changes
 use "git diff" to watch what's change you have made, before you commit
 change come from fenzhgi1
-<<<<<<< Updated upstream
+Updated upstream
 change from master
 another change come form fengzhi1
 not done work...stash
