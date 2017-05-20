@@ -2,6 +2,10 @@ This is git note.
 Add some changes
 use "git diff" to watch what's change you have made, before you commit
 change come from fenzhgi1
+Updated upstream
+change from master
 another change come form fengzhi1
+not done work...stash
+work2 change something, will be push to remote dev branch
 work1 add something in local dev, will push to remote 'dev' branch
 work1 local dev
