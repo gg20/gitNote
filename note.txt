@@ -3,4 +3,4 @@ Add some changes
 use "git diff" to watch what's change you have made, before you commit
 change come from fenzhgi1
 another change come form fengzhi1
-work1 add something in fengzhi1, will push to remote 'dev' branch
+work1 add something in local dev, will push to remote 'dev' branch
